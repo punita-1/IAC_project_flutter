@@ -21,9 +21,9 @@ class _MobileScreenState extends State<MobileScreen> {
     // UploadImageScreen()
     //FireStoreScreen(),
     const HomeScreen(),
-    const HomeScreen(),
-    const HomeScreen(),
-    const HomeScreen(),
+    // const HomeScreen(),
+    // const HomeScreen(),
+    // const HomeScreen(),
     // NetworkScreen(),
     // PostScreen(),
     // NotificationsScreen(),
