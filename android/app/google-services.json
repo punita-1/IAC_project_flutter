@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978566780656",
+    "project_id": "my-project-86efd",
+    "storage_bucket": "my-project-86efd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978566780656:android:d14c36dc0d41d6423c5435",
+        "android_client_info": {
+          "package_name": "com.Cloud_Counselage.IAC"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSCSVwdu_3lOqXW5xI2NINo_DOJowB0Hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
